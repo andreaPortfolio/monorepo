@@ -1,0 +1,18 @@
+{
+  "npmScope": "illimity.com",
+  "implicitDependencies": {
+    "workspace.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "portal": {
+      "tags": []
+    },
+    "portal-e2e": {
+      "tags": []
+    }
+  }
+}
