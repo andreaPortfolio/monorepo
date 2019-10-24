@@ -13,6 +13,9 @@
     },
     "portal-e2e": {
       "tags": []
+    },
+    "store": {
+      "tags": []
     }
   }
 }

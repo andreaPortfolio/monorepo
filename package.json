@@ -26,9 +26,15 @@
   },
   "private": true,
   "dependencies": {
+    "connected-react-router": "^6.5.2",
     "document-register-element": "1.13.1",
+    "history": "^4.10.1",
     "react": "16.9.0",
-    "react-dom": "16.9.0"
+    "react-dom": "16.9.0",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-saga": "^1.1.1",
+    "reselect": "^4.0.0"
   },
   "devDependencies": {
     "@nrwl/workspace": "8.5.2",
