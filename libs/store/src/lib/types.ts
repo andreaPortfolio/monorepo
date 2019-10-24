@@ -101,6 +101,7 @@ export interface Category {
   subcategories: Subcategory[];
   entrance: boolean;
 }
+
 export interface CategoriesObj {
   [key: string]: Category;
 }
