@@ -16,6 +16,9 @@
     },
     "store": {
       "tags": []
+    },
+    "mobile": {
+      "tags": []
     }
   }
 }
